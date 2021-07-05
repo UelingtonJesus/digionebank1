@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/digionebank.iml" filepath="$PROJECT_DIR$/digionebank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitalinnovation/digitalinnovation/digionebank.iml" filepath="$PROJECT_DIR$/digitalinnovation/digitalinnovation/digionebank.iml" />
     </modules>
   </component>
 </project>
